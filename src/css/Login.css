@@ -2,13 +2,13 @@
     box-sizing: border-box;
 }
 
-body {
+.main-body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #F2F6FF;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 90vh;
     margin: 0;
 }
 
